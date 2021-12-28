@@ -517,8 +517,12 @@ input:checked + .slider:before {
     font-size: 13px;
     color: #666;
 }
+.product-feature {
+    font-size: 15px;
+}
 .panel .product-feature i {
     font-size: 20px;
+    vertical-align: middle;
 }
 .blue {
     color: #2196f3;
@@ -537,6 +541,7 @@ h4#list-name, h3#product-name {
     font-size: 18px;
     display: inline-block;
     width: auto;
+    line-height: 1.5;
 }
 .progress {
     height: 6px !important;
