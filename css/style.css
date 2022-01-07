@@ -7,14 +7,14 @@
     z-index: 1;
     font-size: 14px;
     padding: 1px 0 3px 0;
-    background: #6366f1;
+    background:#0f977e;
     color: #fff;
 }
 .bg-success {
-    background-color: #198754!important;
+    background-color: #0f977e!important;
 }
 .bg-info {
-    background-color: #0dcaf0!important;
+    background-color: #007bff!important;
 }
 .bg-warning {
     background-color: #ffc107!important;
@@ -38,7 +38,7 @@
 }
 .pricing .price {
     font-size: 55px;
-    color: #6366f1;
+    color: #007bff;
     font-weight: bold;
     font-family: "Poppins", sans-serif;
 }
@@ -77,7 +77,7 @@ ul.price-180 li {
 }
 .pricing .price {
 font-size: 55px;
-color: #6366f1;
+color: #007bff;
 font-weight: bold;
 }
 i.circle-no {
@@ -132,7 +132,7 @@ ul.c-pricing-nav {
 }
 .pricing ul.c-pricing-nav li a {
     background: #fff !important;
-    color: #6366f1 !important;
+    color: #007bff !important;
     font-size: 18px;
     letter-spacing: 1px;
     width: 100%;
@@ -150,24 +150,24 @@ ul.c-pricing-nav {
 }
 .pricing ul.c-pricing-nav li a.active {
     border-bottom: 1px solid transparent;
-    border-top: 4px solid #6366f1;
+    border-top: 4px solid #007bff;
     line-height: 1;
     padding-top: 10px;
 }
 .pricing ul.c-pricing-nav li a.br1.active {
-    border-right: 1px solid #6366f1; 
+    border-right: 1px solid #007bff; 
 }
 .pricing ul.c-pricing-nav li a.bl1.active {
-    border-left: 1px solid #6366f1;
+    border-left: 1px solid #007bff;
 }
 a.nav-link.bl11 {
-    border-left: 1px solid #6366f1 !important;
+    border-left: 1px solid #007bff !important;
 }
 .pricing ul.c-pricing-nav li a i {
     font-size: 22px;
     vertical-align: middle;
     margin-right: 2px;
-    color:#6366f1;
+    color:#007bff;
 }
 .pnav-block {
     display: block;
@@ -185,28 +185,28 @@ a.nav-link.bl11 {
 .pricing .price span {
     display: inline;
     font-size: 55px;
-    color: #6366f1;
+    color: #007bff;
     font-weight: bold;
 }
 .feature-block .price span {
-    color: #198754;
+    color: #0f977e;
 }
 .pricing .price span.monthly {
     display: block;
 }
 .feature-block a.btn-buy:hover, .feature-block a.btn-buy:focus {
-    background: #198754;
+    background: #0f977e;
 }
 .feature-block .price {
-    color: #198754;
+    color: #0f977e;
 }
 .feature-block a.btn-buy {
     background: transparent;
-    border-color: #198754 !important;
-    color: #198754;
+    border-color: #0f977e !important;
+    color: #0f977e;
 }
 .feature-block h3 {
-    color: #198754 !important;
+    color: #0f977e !important;
 }
 .pricing .box {
     padding: 50px 20px;
@@ -242,16 +242,20 @@ ul.price-180 li ul {
     margin: 0 auto;
     margin-bottom: 35px;
     line-height: 44px;
-    background: #f1f1ff;
-    border: 1px dashed #6366f1;
+    background: #d2e3f4;
+    border: 1px dashed #007bff;
+    color: #007bff;
+    font-weight: 300;
     flex-wrap: nowrap;
     align-content: stretch;
     justify-content: center;
     align-items: center;
 }
 .feature-block .update {
-    background: #eafff5;
-    border: 1px dashed #198754;
+    background: #b6ece2;
+    border: 1px dashed #0f977e;
+    font-weight: 300;
+    color: #0f977e;
 }
 select#selfHostDD2 {
     height: 50px;
@@ -419,8 +423,8 @@ input:checked + .slider:before {
     -webkit-transform: translateX(26px);
     -ms-transform: translateX(26px);
     transform: translateX(28px);
-    border: 1px solid #6366f1;
-    background: #6366f1 !important;
+    border: 1px solid #007bff;
+    background: #007bff !important;
 }
 #monthlyannual {
     display: inline-block;
@@ -451,7 +455,7 @@ input:checked + .slider:before {
 }
 .update i {
     background: #fff;
-    border: 1px solid #6366f1;
+    border: 1px solid #007bff;
     min-width: 24px;
     display: inline-block;
     text-align: center;
@@ -470,33 +474,33 @@ input:checked + .slider:before {
     display: none;
 }
 .feature-block .update i {
-    border: 1px solid #198754;
+    border: 1px solid #0f977e;
 }
 .pricing .btn-buy {
     display: inline-block;
     padding: 10px 40px 8px 40px;
     border-radius: 50px;
-    color: #6366f1;
+    color: #007bff;
     transition: none;
     font-size: 16px;
     font-weight: 400;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     transition: 0.3s;
-    border: 1px solid #6366f1;
+    border: 1px solid #007bff;
     text-decoration: none;
 }
 .pricing .btn-buy:hover {
-    background: #6366f1;
+    background: #007bff;
     color: #fff;
 }
 .feature-block a.btn-buy {
     background: transparent;
-    border-color: #198754 !important;
-    color: #198754;
+    border-color: #0f977e !important;
+    color: #0f977e;
 }
 .feature-block a.btn-buy:hover, .feature-block a.btn-buy:focus {
-    background: #198754;
+    background: #0f977e;
 }
 
 
@@ -773,9 +777,9 @@ a#seeBrDwn {
         border-bottom: 0 !important;
     }
     .pricing ul.c-pricing-nav li a.active {
-        border-left: 1px solid #6366f1 !important;
-        border-right: 1px solid #6366f1 !important;
-        border-top: 4px solid #6366f1;
+        border-left: 1px solid #007bff !important;
+        border-right: 1px solid #007bff !important;
+        border-top: 4px solid #007bff;
     }
     #contactsrow p {
         padding: 0 40px;
