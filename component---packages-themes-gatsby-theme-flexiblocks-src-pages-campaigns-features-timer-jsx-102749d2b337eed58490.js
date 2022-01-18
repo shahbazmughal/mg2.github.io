@@ -1,0 +1,2 @@
+(self.webpackChunk_elegantstack_gatsby_starter_flexiblocks=self.webpackChunk_elegantstack_gatsby_starter_flexiblocks||[]).push([[5844],{3881:function(t,e,a){"use strict";a.r(e),a.d(e,{default:function(){return s}});a(7378),a(5414);var n=a(6495);function s(){return(0,n.tZ)("div",{className:"counterblock"},(0,n.tZ)("div",{id:"countdown"}),(0,n.tZ)("div",{className:"counter-loading"}))}}}]);
+//# sourceMappingURL=component---packages-themes-gatsby-theme-flexiblocks-src-pages-campaigns-features-timer-jsx-102749d2b337eed58490.js.map
