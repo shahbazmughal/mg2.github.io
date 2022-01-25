@@ -476,6 +476,9 @@ input:checked + .slider:before {
 .feature-block .update i {
     border: 1px solid #0f977e;
 }
+.classic-pricing .box.feature-block {
+    background: #FFF !important;
+}
 .pricing .btn-buy {
     display: inline-block;
     padding: 10px 40px 8px 40px;
@@ -850,4 +853,10 @@ a#buy {
 }
 a#buy:hover {
     background: #109880;
+}
+.classic-pricing .box.feature-block {
+    background: #FFF !important;
+}
+section#pricing .box.feature-block>h3.mclassic-feature-csuite {
+    color: #0f977e !important;
 }
