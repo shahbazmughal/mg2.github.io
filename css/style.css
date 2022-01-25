@@ -480,18 +480,18 @@ input:checked + .slider:before {
     display: inline-block;
     padding: 10px 40px 8px 40px;
     border-radius: 50px;
-    color: #007bff;
+    color: #ffffff;
     transition: none;
     font-size: 16px;
     font-weight: 400;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     transition: 0.3s;
-    border: 1px solid #007bff;
+    border: 1px solid #0f977e;
     text-decoration: none;
 }
 .pricing .btn-buy:hover {
-    background: #007bff;
+    background: #0b8c74;
     color: #fff;
 }
 .feature-block a.btn-buy {
